@@ -16,4 +16,4 @@ function listSort(array){
 console.log(listSort(list));
 console.log(history);
 
-//complejidad 0(n^2)
+//complejidad O(n^2)
